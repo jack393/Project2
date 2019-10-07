@@ -1,0 +1,81 @@
+body {
+	Background: black;
+}
+h1,
+h3, h2 {
+	color: white;
+}
+p, ul {
+	
+	color: white;
+	Text-align: left;
+}
+ th {
+	color: white;
+	border: 1px solid white;
+	font-size:25px;
+}
+Td {
+	color: white;
+	border: 1px solid white;
+	font-size:15px;	
+}
+.classtitle{
+	border: 3px dotted white;
+}
+.classinfo{
+	text-align: left;
+	font-size: 25px;
+}
+.teacherpic{
+	width: 150px;
+	height: 200px;
+}
+.classinfopic{
+	Width: 550px;
+	height: 450px;
+	float: right;
+}
+#w
+{
+Border: 3px dotted white ;
+}
+#classroompic{
+ width: 800px;
+height: 300px;
+}
+#algebralink{
+	width: 150px;
+	height: 50px;
+	border-radius: 75px;
+}
+#worldlink{
+	width: 150px;
+	height: 50px;
+	border-radius: 75px;
+}
+#chemistrylink{
+	width: 150px;
+	height: 50px;
+	border-radius: 75px;
+}
+#englishlink{
+	width: 150px;
+	height: 50px;
+	border-radius: 75px;
+}
+#communicationslink{
+	width: 150px;
+	height: 50px;
+	border-radius: 75px;
+}
+#chemistrypic{
+	width: 500px;
+	height: 200px;
+	float: right;
+}
+#homelink{
+	width: 150px;
+	height: 50px;
+	border-radius: 75px;
+}
